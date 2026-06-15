@@ -19,7 +19,7 @@ Tener la aplicación con usuario _root_ lista para ser operada con las siguiente
 
 ## 2. Roles y Permisos Iniciales
 
-Al desplegar la aplicación por primera vez, la base de datos debe crear los siguientes roles y permisos:
+Al desplegar la aplicación **por primera vez**, la base de datos debe crear los siguientes roles y permisos:
 
 | Rol | Permisos |
 |-----|----------|

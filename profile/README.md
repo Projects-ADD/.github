@@ -5,8 +5,10 @@
 ### *"Donde el Backend robusto, la seguridad y la IA convergen en soluciones reales."*
 
 <br/>
-
+<!--
 ![Rol](https://img.shields.io/badge/Aspirante_a-Arquitecto_de_Software_Jr.-0D1117?style=for-the-badge&logoColor=white)
+-->
+
 ![GitHub Org](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Open to Work](https://img.shields.io/badge/Abierto_a-Colaboraciones_y_Oportunidades-22c55e?style=for-the-badge&logoColor=white)
 
@@ -14,9 +16,9 @@
 
 ---
 
-## 🧭 Acerca de esta Organización
+## 🏢 Acerca de esta Organización
 
-Portafolio técnico de **<!-- [NOMBRE O ALIAS] -->**, desarrollador Backend con orientación a **Arquitectura de Sistemas y Software Jr.**, enfocado en el diseño de soluciones escalables, seguras e inteligentes.
+Portafolio técnico de **<!-- [NOMBRE O ALIAS] -->** desarrollo Backend con orientación a **Arquitectura de Sistemas y Software Jr.**, enfocado en el diseño de soluciones escalables, seguras e inteligentes.
 
 Esta organización agrupa proyectos desarrollados a lo largo de mi trayectoria profesional bajo tres pilares fundamentales:
 
@@ -80,10 +82,11 @@ Esta organización agrupa proyectos desarrollados a lo largo de mi trayectoria p
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<!--
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
+-->
 ---
 
 ## 🗂️ Principales enfoques
@@ -129,9 +132,11 @@ Los repositorios están organizados en equipos dentro de esta organización, agr
 
 ## 📬 Contacto
 
-<div align="center">
+<div align="left">
 
-[![GitHub](https://img.shields.io/badge/GitHub-@[YOUR__USERNAME]-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/[YOUR_USERNAME])
+[![GitHub](https://img.shields.io/badge/GitHub-@addProfesional-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/addProfesional)
+
+[![GitHub](https://img.shields.io/badge/GitHub-@maguis18-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maguis18)
 
 </div>
 
