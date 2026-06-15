@@ -8,7 +8,7 @@
 
 ![Rol](https://img.shields.io/badge/Aspirante_a-Arquitecto_de_Software_Jr.-0D1117?style=for-the-badge&logoColor=white)
 ![GitHub Org](https://img.shields.io/badge/GitHub-Organization-181717?style=for-the-badge&logo=github&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open_to-Colaboraciones_y_Oportunidades-22c55e?style=for-the-badge&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Abierto_a-Colaboraciones_y_Oportunidades-22c55e?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -86,7 +86,7 @@ Esta organización agrupa proyectos desarrollados a lo largo de mi trayectoria p
 
 ---
 
-## 🗂️ Estructura del Portafolio
+## 🗂️ Principales enfoques
 
 Los repositorios están organizados en equipos dentro de esta organización, agrupados por área de especialización:
 
