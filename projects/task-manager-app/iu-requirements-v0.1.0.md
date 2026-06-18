@@ -23,7 +23,7 @@ Al desplegar la aplicación **por primera vez**, la base de datos debe crear los
 
 | Rol | Permisos |
 |-----|----------|
-| **Root** | `write_task`, `read_task`, <br/>`write_permission`, `read_permission`, <br/>`write_rol`, `read_rol` |
+| **Root** | `write_task`, `read_task`, <br/>`write_user`, `read_user`, <br/>`write_permission`, `read_permission`, <br/>`write_rol`, `read_rol` |
 | **User** | `write_task`, `read_task` |
 | **Guest** | `only_view` |
 
@@ -156,6 +156,10 @@ El área de trabajo es un grid invisible que permite mover las _cards_ de las ta
 ## 10. Pantalla de Usuarios (solo Root)
 
 - Título: **Usuarios**
+- Zona o barra de herramientas con los siguientes botones
+  - Crear nuevo usuario: mostrará un modal con un formulario para pedir datos del nuevo usuario; Root o usuarios con permisos `write_user` (o similar) pueden crear los nuevos usuarios
+  - Componente para hacer búsqueda de usuario, por nombre o username
+  - Botón de ordenar: 1 opción por cada campo ordenable.
 - Tabla con los datos de los usuarios.
 - Última columna (**Actions**) permite:
   - Borrar usuario (con confirmación)
@@ -179,3 +183,4 @@ El área de trabajo es un grid invisible que permite mover las _cards_ de las ta
 ## 13. Pendientes por Definir
 
 - Agregar campo `username` a los usuarios (backend).
+- Agregar campo `last_session` a los usuarios (backend).

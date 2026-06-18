@@ -70,7 +70,7 @@ Agregar la carpeta `ia/` en la raiz del proyecto, aquí se pondrán archivos ya 
 ### 8. Stack tecnológico
 
 El framework, librería, lenguaje o cualquier otra herramienta de desarrollo es de libre elección. Mi recomendación es que no escojas la última versión más reciente, sino **escojer la versión estable más reciente (que es muy diferente, preferentemente un LTS o de soporte extendido)**
-También tomar en cuenta que la versión seleccionada no sea tan reciante ( menor a 5 meses )
+También tomar en cuenta que la versión seleccionada no sea tan reciente ( menor a 5 meses )
 
 ### 9. Versionado y repositorios
 
