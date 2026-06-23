@@ -1,4 +1,4 @@
-# Release 0.1.0 — Requisitos de Interfaz de Usuario
+# Release 0.1.0 — Requisitos de Interfaz de Usuario para el Task Manager App
 
 ## Objetivo
 
@@ -170,17 +170,17 @@ El área de trabajo es un grid invisible que permite mover las _cards_ de las ta
 
 ## 11. Pantalla de Roles (solo Root)
 
-*(Pendiente por definir)*
+Debe ser una pantalla adecuada, estándar generalmente aceptada para configuración de roles y permisos
 
 ---
 
 ## 12. Pantalla de Permisos (solo Root)
 
-*(Pendiente por definir)*
+Un grid que liste todos los permisos creados, parecido a la pantalla de usuarios 
 
 ---
 
 ## 13. Pendientes por Definir
 
-- Agregar campo `username` a los usuarios (backend).
-- Agregar campo `last_session` a los usuarios (backend).
+<!-- - Agregar campo `username` a los usuarios (backend).
+- Agregar campo `last_session` a los usuarios (backend). -->

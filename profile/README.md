@@ -49,12 +49,11 @@ Esta organización agrupa proyectos desarrollados a lo largo de mi trayectoria p
 
 ### 🌐 Frontend (Colaborativo)
 <!--
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+-->
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
--->
 
 ### 🤖 Inteligencia Artificial & ML
 
